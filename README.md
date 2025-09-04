@@ -9,13 +9,14 @@
 3. Run the app:
    `npm run dev`
 
-##Executar Localmente
+## Executar Localmente
+
 **Pré-requisitos:** Node.js
 
 1. Instalar dependências:
-npm install
+`npm install`
 
-2. Configure a GEMINI_API_KEY no arquivo .env.local com sua chave da API Gemini
+2. Configure a `GEMINI_API_KEY` no arquivo [.env.local](.env.local) com sua chave da API Gemini
 
 3. Execute o aplicativo:
-npm run dev
+`npm run dev`
