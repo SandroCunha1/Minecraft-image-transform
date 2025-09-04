@@ -20,3 +20,6 @@
 
 3. Execute o aplicativo:
 `npm run dev`
+
+<img width="1364" height="841" alt="image" src="https://github.com/user-attachments/assets/926f027b-363f-40c5-a21f-6b2489c8f704" />
+
