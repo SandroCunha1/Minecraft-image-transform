@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Minecraft Style Image Generator",
+  "description": "An application that transforms your uploaded images into a 3D voxel/blocky 'Minecraft' style using AI. It also generates creative ideas for transformations.",
+  "requestFramePermissions": []
+}
